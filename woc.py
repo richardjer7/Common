@@ -1,5 +1,10 @@
 import pygame
 
+'''
+@class WOC
+@author - Wizards of Coz
+'''
+
 class WOC:
     def __init__(self):
         pygame.init()

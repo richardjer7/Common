@@ -1,4 +1,12 @@
+
 from cozmo.lights import Light, Color
+
+'''
+@class Colors
+Helper class for Cozmo light colors
+@author - Wizards of Coz
+'''
+
 
 class Colors:
     """ Class to define common colors to be used """
