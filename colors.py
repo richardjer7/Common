@@ -4,6 +4,7 @@ from cozmo.lights import Light, Color
 '''
 @class Colors
 Helper class for Cozmo light colors
+<<<<<<< HEAD
 @author - Wizards of Coz master branch
 '''
 
