@@ -4,7 +4,7 @@ from cozmo.lights import Light, Color
 '''
 @class Colors
 Helper class for Cozmo light colors
-@author - Wizards of Coz master branch
+@author - Wizards of Coz Sharan's fork
 '''
 
 
